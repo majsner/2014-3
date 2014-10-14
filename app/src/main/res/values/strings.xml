@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="vlozte">Sem napište text</string>
+    <string name="stiskni">Stiskni</string>
+    <string name="sem">Sem se to napíše</string>
+
+</resources>
